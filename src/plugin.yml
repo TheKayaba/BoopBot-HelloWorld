@@ -1,0 +1,6 @@
+name: 'Hello World'
+main: 'com.boopbot.helloworld.HelloWorldPlugin'
+version: '1.0.0'
+author: 'Kayaba <Kayaba#1777>'
+description: 'A simple Hello World! plugin for BoopBot!'
+requires: '2.0.0'
